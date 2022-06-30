@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PIZZA CAB</title>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="pizzalogo.jpg" class="logo">
+            <nav>
+                <ul>
+                    <li><ahrref=">HOME"</a></li>
+                    <li><ahref=">SEARCH"</a></li>
+                    <li><ahref=">MENU"</a></li>
+                    <li><ahref=">ABOUT US"</a></li>                     
+                    <li><ahref=">CONTACT"</a></li>                    
+
+                </ul>
+            </nav>
+            <button class="btn" id="btn1">Log In</button>
+            <button class="btn" id="btn2">Sign Up</button>
+     </div>
+     <div class="content">
+        <div class="text">
+            <h1>A Slice a Day <br><span>keeps the sad away</span>
+                </h1>
+                <p> work hard ,Be Nice Eat Pizza........<br>
+                     Never sit around and wait for someone unless theyb are delivering pizza...</p>
+                   <button class="btn3">Buy Now</button>
+                </div>
+            <div class="pizza">
+            <img src="pizza2.jpg">
+        </div>
+     </div>
+    </div>
+    
+</body>
+</html>
